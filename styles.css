@@ -33,3 +33,7 @@ html,body{
     color:aliceblue;
     bottom: 5%;
 }
+.text h1{
+    background-image: url(./bg.jpeg);
+    
+}
